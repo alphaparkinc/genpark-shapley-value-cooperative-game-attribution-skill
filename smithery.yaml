@@ -1,0 +1,5 @@
+name: genpark-shapley-value-cooperative-game-attribution-skill
+description: Shapley value cooperative game attribution and coalitional marginal contribution calculation
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
