@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-shapley-value-cooperative-game-attribution-skill"
+version = "1.0.0"
+description = "Shapley value cooperative game attribution and coalitional marginal contribution calculation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
