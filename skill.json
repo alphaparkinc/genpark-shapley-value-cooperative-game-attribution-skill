@@ -1,0 +1,19 @@
+{
+  "name": "genpark-shapley-value-cooperative-game-attribution-skill",
+  "version": "1.0.0",
+  "description": "Shapley value cooperative game attribution and coalitional marginal contribution calculation",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "shapley-value",
+    "cooperative-game-theory",
+    "feature-attribution",
+    "coalitional-game",
+    "marginal-contribution",
+    "axiomatic-attribution",
+    "python-standard-library",
+    "agent-skills",
+    "fair-division",
+    "explainable-ai"
+  ]
+}
